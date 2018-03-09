@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">KotlinAndroid</string>
+    <string name="app_name">JavaAndroid</string>
+    <string name="button_label">Enter a value:</string>
+    <string name="button_text">Press Me</string>
 </resources>
